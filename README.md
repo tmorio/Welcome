@@ -4,7 +4,7 @@
 簡単に言えば、Gitの機能をサーバー上でもやってくれるサービスみたいなものです。
 ## Git is 何
 ソースコードなどの変更履歴を追跡する分散型バージョン管理システム。  
-参考文献: (Git - Wikipedia)[https://ja.wikipedia.org/wiki/Git "Git - Wikipedia"]  
+(Git - Wikipedia)[https://ja.wikipedia.org/wiki/Git "Git - Wikipedia"]
   
 簡単に言えば、ソースコードの変更履歴を記録できるシステムです。  
 例えばAさんがここを追加した、Bさんがこの部分を削除したと言うのを可視化してくれるものです。  
