@@ -34,6 +34,7 @@
 では、下にスクロールして「**Commit changes**」の画面を出します。  
 ![5](https://github.com/ElectronicsDesign/Welcome/blob/photo-up/display5.png?raw=true "5") 
 この欄の書き方についてですが、そのままでも構いません。ですが、何度も「**Update ファイル名**」という記録ができてしまい、ややこしくなるので、上の欄には「**自分が行なった作業の簡単な説明**」を入れておくと、後から変更履歴を見たときに見やすくなります。下の欄は空欄でも構いませんが、ややこしい作業や新しくコードを挿入したときは簡単に説明を入れておきましょう。  
+<br />
 まとめると**上の欄に「作業内容」、下の欄に「作業内容の説明」を**入れましょう。  
 と言う事で、今回は「Javaは良いぞ。」と追記したので、「Javaを推した」としました。また、複雑な操作ではないので説明は書いておりません。  
 ![6](https://github.com/ElectronicsDesign/Welcome/blob/photo-up/display6.png?raw=true "6")  
@@ -48,3 +49,11 @@
 ![8s](https://github.com/ElectronicsDesign/Welcome/blob/photo-up/display8s.png?raw=true "8s") 
 すると以下のような画面が出ます。  
 ![9](https://github.com/ElectronicsDesign/Welcome/blob/photo-up/display9.png?raw=true "9") 
+これは変更箇所の表示画面です。一つ前の記録と比較し、どのファイルのどの部分が変更されたかを表示してくれます。  
+緑色が追加された箇所、今回はないですが、赤色が削除された箇所です。  
+<br />
+どうですか?変更箇所が分かりやすくなりましたね。これがGitの素晴らしいところです。  
+<br />
+と言うわけで、今回はファイルを編集し、実際に履歴の記録を行なってみました。  
+Git、GitHubにはこれ以外にも、Branch(履歴を分岐させて記録するもの)、Pull Request(自分が行なった変更を、別のBranchに適用依頼する事)、Issue(不具合の報告による問題点の可視化)...などなどと挙げれば沢山の便利な機能が実装されています。  
+<br />
