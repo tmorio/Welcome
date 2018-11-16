@@ -49,7 +49,7 @@
 ![8s](https://github.com/ElectronicsDesign/Welcome/blob/photo-up/display8s.png?raw=true "8s") 
 すると以下のような画面が出ます。  
 ![9](https://github.com/ElectronicsDesign/Welcome/blob/photo-up/display9.png?raw=true "9") 
-これは変更箇所の表示画面です。一つ前の記録と比較し、どのファイルのどの部分が変更されたかを表示してくれます。  
+これは変更箇所の表示画面です。一つ前の記録と比較し、ファイルのどの部分が変更されたかを表示してくれます。  
 緑色が追加された箇所、今回はないですが、赤色が削除された箇所です。  
 <br />
 どうですか?変更箇所が分かりやすくなりましたね。これがGitの素晴らしいところです。  
