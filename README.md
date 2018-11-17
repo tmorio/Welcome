@@ -63,4 +63,4 @@ Git、GitHubにはこれ以外にも、Branch(履歴を分岐させて記録す�
 今回は、commit(変更の記録)のみを扱いましたが、この他の機能についてはコーディングの進捗に合わせ、随時教えていきたいと思います。  
 また、分からない点があったらどんどん聞いて下さい！  
 <br />
-Writed by Morikapu
+Written by Morikapu
