@@ -19,8 +19,8 @@
 本来ならばコマンドを入力して、操作を行いたいところですが、ベースをこちらで用意しておくので今回はGitHubのWeb上から操作していきます。  
   
 ※ Git Portable版をインストールする、学内LANの規制を回避するなどの手段はありますが、今回は割愛します。  
-## 編集してマージするまでの流れ
-基本的には以下の流れで行います。  
+## "Web上で"編集してマージするまでの流れ
+基本的には以下の流れで行います。(個人的にはコマンドでやったほうが色々楽だけど規制回避ゴニョゴニョ...)  
 <br />
 [1. レポジトリをCloneまたはForkする。](https://github.com/ElectronicsDesign/Welcome/blob/master/manual/1.md)  
 [2. 作業用Branchを作成する。](https://github.com/ElectronicsDesign/Welcome/blob/master/manual/2.md)    
