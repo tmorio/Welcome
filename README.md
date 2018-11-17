@@ -26,7 +26,7 @@
 [3. 編集する。](https://github.com/ElectronicsDesign/Welcome/blob/master/manual/3.md)  
 [4. Commitする。](https://github.com/ElectronicsDesign/Welcome/blob/master/manual/4.md)  
 [5. Pull requestを元レポジトリに投げる。](https://github.com/ElectronicsDesign/Welcome/blob/master/manual/5.md)  
-[6. マージする。](https://github.com/ElectronicsDesign/Welcome/blob/master/manual/6.md)
+[6. マージする。](https://github.com/ElectronicsDesign/Welcome/blob/master/manual/6.md)  
 <br />
 という事で今回は、一通りこれらの作業をやってみましょう。  
 <br />
