@@ -25,7 +25,7 @@
 [1. レポジトリをCloneまたはForkする。](https://github.com/ElectronicsDesign/Welcome/blob/master/manual/1.md)  
 [2. 作業用Branchを作成する。](https://github.com/ElectronicsDesign/Welcome/blob/master/manual/2.md)    
 [3. 編集して、Commitする。](https://github.com/ElectronicsDesign/Welcome/blob/master/manual/3.md)  
-[4. Pull request(合体要求)を元レポジトリに投げる。](https://github.com/ElectronicsDesign/Welcome/blob/master/manual/4.md)  
+[4. Pull request(合体要求)を投げる。](https://github.com/ElectronicsDesign/Welcome/blob/master/manual/4.md)  
 [5. マージ(合体)する。](https://github.com/ElectronicsDesign/Welcome/blob/master/manual/5.md)  
 <br />
 という事で今回は、一通りこれらの作業をやってみましょう。  
