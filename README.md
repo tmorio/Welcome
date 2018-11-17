@@ -21,12 +21,13 @@
 ## 編集してマージするまでの流れ
 基本的には以下の流れで行います。  
 <br />
-1. レポジトリをCloneまたはForkする。  
-2. 作業用Branchを作成する。  
-3. 編集する。  
-4. Commitする。  
-5. Pull requestを元レポジトリに投げる。  
-6. マージする。
+[1. レポジトリをCloneまたはForkする。](https://github.com/ElectronicsDesign/Welcome/blob/master/manual/1.md)  
+[2. 作業用Branchを作成する。](https://github.com/ElectronicsDesign/Welcome/blob/master/manual/2.md)    
+[3. 編集する。](https://github.com/ElectronicsDesign/Welcome/blob/master/manual/3.md)  
+[4. Commitする。](https://github.com/ElectronicsDesign/Welcome/blob/master/manual/4.md)  
+[5. Pull requestを元レポジトリに投げる。](https://github.com/ElectronicsDesign/Welcome/blob/master/manual/5.md)  
+[6. マージする。](https://github.com/ElectronicsDesign/Welcome/blob/master/manual/6.md)
 <br />
 という事で今回は、一通りこれらの作業をやってみましょう。  
 <br />
+各手順をクリックすると説明に入ります。
