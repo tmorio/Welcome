@@ -8,7 +8,7 @@
 
 ## Git is 何
 ソースコードなどの変更履歴を追跡する分散型バージョン管理システム。  
-(Git-Wikipedia)[https://ja.wikipedia.org/wiki/Git]
+[Git - Wikipedia](https://ja.wikipedia.org/wiki/Git)
   
   
 簡単に言えば、ソースコードの変更履歴を記録できるシステムです。  
